@@ -5,4 +5,4 @@
 ##### Hello, World!
 ###### Hello, World!
 
-<img src="https://octodex.github.com/images/yaktocat.png" alt="Yaktocat">
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat">
